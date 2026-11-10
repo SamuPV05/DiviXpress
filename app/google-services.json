@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "184257097255",
+    "project_id": "divixpress-f0f71",
+    "storage_bucket": "divixpress-f0f71.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184257097255:android:412645a587f35b5be3a802",
+        "android_client_info": {
+          "package_name": "com.samuel.retodivisas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDwvdcQT2F-tbsAAB7BkZ5NZB-mjF6iXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
